@@ -15,4 +15,4 @@ h2 {
   background-color: FFE973;
   color: yellow;
 }
-font: italic 1.2em "Fira Sans", serif;
+p { font: 12px/14px sans-serif }
