@@ -3,16 +3,13 @@ background-color: FOF7F4;
 }
 
 h1 {
-  background-color: FFE973;
   color: white;
 }
   
 p {
-  background-color : black;
   color: blue;
 }
 h2 {
-  background-color: FFE973;
   color: yellow;
 }
 p { font: 12px/14px sans-serif }
