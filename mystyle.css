@@ -16,15 +16,25 @@ p { font: 18px/20px times new roman }
 
 
 
-.links-list a {
+nav {
   background-color: black;
-  color: #fff;
-  text-decoration: none;
-  padding: 1em 2em;
+  height: 50px
+}
+nav ul {
 }
 
-.links-list a:hover {
-  background-color: white;
-  color: #fff;
+nav ul li {
+  list-style-type: none;
+  width: 130px;
+  float: left;
+  border-right: 1px solid #D3D3D3;
+  text-align: center;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  line-height: 30px;
+  display: block:
 }
     
