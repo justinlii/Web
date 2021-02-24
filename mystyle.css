@@ -15,26 +15,16 @@ h2 {
 p { font: 18px/20px times new roman }
 
 
-nav {
+
+.links-list a {
   background-color: black;
-  height: 50px
-}
-
-nav ul {
-
-}
-
-nav ul li {
-  list-style-type: none;
-  width: 130px;
-  float: left;
-  border-right: 1px solid #D3D3D3;
-  text-align: center;
-}
-
-nav ul li a {
+  color: #fff;
   text-decoration: none;
-  color: white;
-  line-height: 30px;
-  display: block:
+  padding: 1em 2em;
 }
+
+.links-list a:hover {
+  background-color: white;
+  color: #fff;
+}
+    
