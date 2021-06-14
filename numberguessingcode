@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html land="en">
+<p>
 import random
  
 while True:
@@ -84,3 +87,4 @@ while True:
         print("An admirable choice!")
       else:
         print("Invalid input")
+</p>
